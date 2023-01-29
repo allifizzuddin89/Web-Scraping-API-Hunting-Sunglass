@@ -20,8 +20,8 @@
   cd Web-Scraping-API-Hunting-Sunglass/spiders
 ```
 - Run <scrapy runspider main.py> in the terminal in the working directory
-  OR simply run <scrapy crawl main.py>
-- Add -O sunglass_list.csv in terminal to produce the csv file e.g. ''
+  OR simply run as code below <scrapy crawl main.py>
+- Add -O sunglass_list.csv in terminal to produce the csv file e.g.
 ```bash  
   scrapy runspider main.py -O sunglass_list.csv 
 ```
