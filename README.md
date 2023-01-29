@@ -10,7 +10,7 @@
 - Any working environment to install the required packages such as conda or pyenv.
 
 ## Run
-- The working directory is https://github.com/allifizzuddin89/Web-Scraping-API-Hunting-Sunglass/spiders
+- The working directory is https://github.com/allifizzuddin89/Web-Scraping-API-Hunting-Sunglass/sunglass_scraping/sunglass_scraping/spiders/
 - Activate the installed working environment, e.g:
 ```bash  
   conda activate my_env 
@@ -44,16 +44,17 @@
 ```
 - Run the spider, if you already inside working directory, please [runspider main.py], else,
  ```bash
-    scrapy runspider Web-Scraping-API-Hunting-Sunglass/spiders/main.py -O sunglass_list.csv
+    scrapy runspider Web-Scraping-API-Hunting-Sunglass/sunglass_scraping/sunglass_scraping/spiders/main.py -O sunglass_list.csv
  ```
 
 ## Troubleshoot
-- Error might happened due to the cookies already expired or request being rejected by the server or the url simply has been changed by the administrator.
-  - Please bear in mind, the the web owner might change the web's code dynamically anytime. Therefore this web scraping code might not work.
+- Error might happen due to the cookies already expired or request being rejected by the server or the url simply has been changed by the administrator.
+  - Please bear in mind, the the web owner might change the web's code dynamically anytime. Therefore this web scraping code might not work anytime in future.
 - Solution: 
   1. Refresh the cookies (if any) OR
   2. Using proxy (refer main.py)
   3. Replace with new url
+  4. Update the header
   
 ## DISCLAIMER
 - This works only meant for educational, research and proof of work purpose only. 
