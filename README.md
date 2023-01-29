@@ -32,7 +32,7 @@
 ### HOW-TO
 - Clone the repository
 ```bash  
-  git clone https://github.com/allifizzuddin89/Lazada-Web-Scraping-Handphone-Price-List.git ](https://github.com/allifizzuddin89/Web-Scraping-API-Hunting-Sunglass.git
+  git clone https://github.com/allifizzuddin89/Web-Scraping-API-Hunting-Sunglass.git
   ```
 - Create working environment (skip if already have any working environment)
 ```bash
@@ -42,7 +42,7 @@
 ```bash
   conda activate scraping_env
 ```
-- Run the spider
+- Run the spider, if you already inside working directory, please [runspider main.py], else,
  ```bash
     scrapy runspider Web-Scraping-API-Hunting-Sunglass/spiders/main.py -O sunglass_list.csv
  ```
