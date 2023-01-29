@@ -10,7 +10,7 @@
 - Any working environment to install the required packages such as conda or pyenv.
 
 ## Run
-- The working directory is https://github.com/allifizzuddin89/Web-Scraping-API-Hunting-Sunglass/sunglass_scraping/sunglass_scraping/spiders/
+- The working directory is [here](https://github.com/allifizzuddin89/Web-Scraping-API-Hunting-Sunglass/tree/main/sunglass_scraping/sunglass_scraping/spiders)
 - Activate the installed working environment, e.g:
 ```bash  
   conda activate my_env 
