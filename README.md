@@ -32,8 +32,8 @@
 ### HOW-TO
 - Clone the repository
 ```bash  
-  git clone https://github.com/allifizzuddin89/Lazada-Web-Scraping-Handphone-Price-List.git  
-```
+  git clone https://github.com/allifizzuddin89/Lazada-Web-Scraping-Handphone-Price-List.git ](https://github.com/allifizzuddin89/Web-Scraping-API-Hunting-Sunglass.git
+  ```
 - Create working environment (skip if already have any working environment)
 ```bash
   conda create --name scraping_env -c conda-forge python=3.9.13 scrapy=2.7.1
