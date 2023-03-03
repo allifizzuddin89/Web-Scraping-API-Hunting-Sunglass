@@ -1,5 +1,5 @@
 # Web-Scraping-API-Hunting-Sunglass
-- Scraping for data by investigating the hidden API
+- Scraping for data by investigating the hidden API in https://www.sunglasshut.com/
 - Applying proxy by ScraperAPI to circumvent the website's ban.
 - Scraping framework : Scrapy
 - Scraping through API, extracting data from JSON
