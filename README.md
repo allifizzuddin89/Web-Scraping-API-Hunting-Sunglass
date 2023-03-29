@@ -4,6 +4,9 @@
 - Scraping framework : Scrapy
 - Scraping through API, extracting data from JSON
 
+# Result
+- Please see the generated scraped data in [result](https://github.com/allifizzuddin89/Web-Scraping-API-Hunting-Sunglass/blob/main/sunglass_scraping/sunglass_scraping/spiders/sunglass_list.csv)
+
 ## Requirement : 
 - Scrapy 2.7.1
 - Python 3.7 or above
